@@ -1,4 +1,2 @@
-line one
+line one from main
 line two
-这行用来测试 staged 撤销
-这是 feature 分支上的新功能
